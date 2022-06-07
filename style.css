@@ -31,9 +31,9 @@ body{
     font-size: 25px;
     text-align: center;
 }
-@import url('https://fonts.googleapis.com/css2?family=Dancing+Script:wght@500&display=swap');
+@import url('https://fonts.googleapis.com/css2?family=Lato:ital,wght@1,100&display=swap');
 .author{
-    font-family: 'Dancing Script', cursive;
+    font-family: 'Lato', sans-serif;
 }
 .footer{
     font-family: 'Poppins', sans-serif;
